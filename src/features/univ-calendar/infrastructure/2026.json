@@ -1,0 +1,2620 @@
+{
+	"start": {
+		"year": 2026,
+		"month": 4,
+		"date": 1
+	},
+	"terms": [
+		{
+			"name": "春学期",
+			"type": "semester",
+			"start": "2026-04-01",
+			"end": "2026-09-20"
+		},
+		{
+			"name": "春クォーター",
+			"type": "quarter",
+			"start": "2026-04-11",
+			"end": "2026-06-03"
+		},
+		{
+			"name": "夏クォーター",
+			"type": "quarter",
+			"start": "2026-06-04",
+			"end": "2026-07-22"
+		},
+		{
+			"name": "夏季休業期間",
+			"type": "vacation",
+			"start": "2026-07-30",
+			"end": "2026-09-20"
+		},
+		{
+			"name": "秋学期",
+			"type": "semester",
+			"start": "2026-09-21",
+			"end": "2027-03-31"
+		},
+		{
+			"name": "秋クォーター",
+			"type": "quarter",
+			"start": "2026-10-01",
+			"end": "2026-11-21"
+		},
+		{
+			"name": "冬クォーター",
+			"type": "quarter",
+			"start": "2026-11-23",
+			"end": "2027-01-26"
+		},
+		{
+			"name": "冬季休業期間",
+			"type": "vacation",
+			"start": "2026-12-22",
+			"end": "2027-01-05"
+		},
+		{
+			"name": "春季休業期間",
+			"type": "vacation",
+			"start": "2027-02-03",
+			"end": "2027-03-31"
+		}
+	],
+	"days": [
+		{
+			"day": 0,
+			"date": "2026-04-01",
+			"is_class_day": false,
+			"info": "春学期開始日、ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 1,
+			"date": "2026-04-02",
+			"is_class_day": false,
+			"info": "入学式、ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 2,
+			"date": "2026-04-03",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 3,
+			"date": "2026-04-04",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 4,
+			"date": "2026-04-05",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 5,
+			"date": "2026-04-06",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 6,
+			"date": "2026-04-07",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 7,
+			"date": "2026-04-08",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 8,
+			"date": "2026-04-09",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 9,
+			"date": "2026-04-10",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 10,
+			"date": "2026-04-11",
+			"is_class_day": true,
+			"info": "春クォーター開始",
+			"lesson": 0
+		},
+		{
+			"day": 11,
+			"date": "2026-04-12",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 12,
+			"date": "2026-04-13",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 13,
+			"date": "2026-04-14",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 14,
+			"date": "2026-04-15",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 15,
+			"date": "2026-04-16",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 16,
+			"date": "2026-04-17",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 17,
+			"date": "2026-04-18",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 18,
+			"date": "2026-04-19",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 19,
+			"date": "2026-04-20",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 20,
+			"date": "2026-04-21",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 21,
+			"date": "2026-04-22",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 22,
+			"date": "2026-04-23",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 23,
+			"date": "2026-04-24",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 24,
+			"date": "2026-04-25",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 25,
+			"date": "2026-04-26",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 26,
+			"date": "2026-04-27",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 27,
+			"date": "2026-04-28",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 28,
+			"date": "2026-04-29",
+			"is_class_day": true,
+			"info": "祝日・休日の授業実施日",
+			"lesson": 2
+		},
+		{
+			"day": 29,
+			"date": "2026-04-30",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 30,
+			"date": "2026-05-01",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 31,
+			"date": "2026-05-02",
+			"is_class_day": false,
+			"info": "大学の休業日ではないが授業なし",
+			"lesson": null
+		},
+		{
+			"day": 32,
+			"date": "2026-05-03",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 33,
+			"date": "2026-05-04",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 34,
+			"date": "2026-05-05",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 35,
+			"date": "2026-05-06",
+			"is_class_day": false,
+			"info": "振替休日",
+			"lesson": null
+		},
+		{
+			"day": 36,
+			"date": "2026-05-07",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 37,
+			"date": "2026-05-08",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 38,
+			"date": "2026-05-09",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 39,
+			"date": "2026-05-10",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 40,
+			"date": "2026-05-11",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 41,
+			"date": "2026-05-12",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 42,
+			"date": "2026-05-13",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 43,
+			"date": "2026-05-14",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 44,
+			"date": "2026-05-15",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 45,
+			"date": "2026-05-16",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 46,
+			"date": "2026-05-17",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 47,
+			"date": "2026-05-18",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 48,
+			"date": "2026-05-19",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 49,
+			"date": "2026-05-20",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 50,
+			"date": "2026-05-21",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 51,
+			"date": "2026-05-22",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 52,
+			"date": "2026-05-23",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 53,
+			"date": "2026-05-24",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 54,
+			"date": "2026-05-25",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 55,
+			"date": "2026-05-26",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 56,
+			"date": "2026-05-27",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 57,
+			"date": "2026-05-28",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 58,
+			"date": "2026-05-29",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 59,
+			"date": "2026-05-30",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 60,
+			"date": "2026-05-31",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 61,
+			"date": "2026-06-01",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 62,
+			"date": "2026-06-02",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 63,
+			"date": "2026-06-03",
+			"is_class_day": true,
+			"info": "春クォーター終了",
+			"lesson": 6
+		},
+		{
+			"day": 64,
+			"date": "2026-06-04",
+			"is_class_day": true,
+			"info": "夏クォーター開始",
+			"lesson": 7
+		},
+		{
+			"day": 65,
+			"date": "2026-06-05",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 66,
+			"date": "2026-06-06",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 67,
+			"date": "2026-06-07",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 68,
+			"date": "2026-06-08",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 69,
+			"date": "2026-06-09",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 70,
+			"date": "2026-06-10",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 71,
+			"date": "2026-06-11",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 72,
+			"date": "2026-06-12",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 73,
+			"date": "2026-06-13",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 74,
+			"date": "2026-06-14",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 75,
+			"date": "2026-06-15",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 76,
+			"date": "2026-06-16",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 77,
+			"date": "2026-06-17",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 78,
+			"date": "2026-06-18",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 79,
+			"date": "2026-06-19",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 80,
+			"date": "2026-06-20",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 81,
+			"date": "2026-06-21",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 82,
+			"date": "2026-06-22",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 83,
+			"date": "2026-06-23",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 84,
+			"date": "2026-06-24",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 85,
+			"date": "2026-06-25",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 86,
+			"date": "2026-06-26",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 87,
+			"date": "2026-06-27",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 88,
+			"date": "2026-06-28",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 89,
+			"date": "2026-06-29",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 90,
+			"date": "2026-06-30",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 91,
+			"date": "2026-07-01",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 92,
+			"date": "2026-07-02",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 93,
+			"date": "2026-07-03",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 94,
+			"date": "2026-07-04",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 95,
+			"date": "2026-07-05",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 96,
+			"date": "2026-07-06",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 97,
+			"date": "2026-07-07",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 98,
+			"date": "2026-07-08",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 99,
+			"date": "2026-07-09",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 100,
+			"date": "2026-07-10",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 101,
+			"date": "2026-07-11",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 102,
+			"date": "2026-07-12",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 103,
+			"date": "2026-07-13",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 104,
+			"date": "2026-07-14",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 105,
+			"date": "2026-07-15",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 106,
+			"date": "2026-07-16",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 107,
+			"date": "2026-07-17",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 108,
+			"date": "2026-07-18",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 109,
+			"date": "2026-07-19",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 110,
+			"date": "2026-07-20",
+			"is_class_day": true,
+			"info": "祝日・休日の授業実施日",
+			"lesson": 13
+		},
+		{
+			"day": 111,
+			"date": "2026-07-21",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 112,
+			"date": "2026-07-22",
+			"is_class_day": true,
+			"info": "夏クォーター終了",
+			"lesson": 13
+		},
+		{
+			"day": 113,
+			"date": "2026-07-23",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 114,
+			"date": "2026-07-24",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 115,
+			"date": "2026-07-25",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 116,
+			"date": "2026-07-26",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 117,
+			"date": "2026-07-27",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 118,
+			"date": "2026-07-28",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 119,
+			"date": "2026-07-29",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 120,
+			"date": "2026-07-30",
+			"is_class_day": false,
+			"info": "夏季休業期間開始",
+			"lesson": null
+		},
+		{
+			"day": 121,
+			"date": "2026-07-31",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 122,
+			"date": "2026-08-01",
+			"is_class_day": false,
+			"info": "オープンキャンパス（予定）",
+			"lesson": null
+		},
+		{
+			"day": 123,
+			"date": "2026-08-02",
+			"is_class_day": false,
+			"info": "オープンキャンパス（予定）",
+			"lesson": null
+		},
+		{
+			"day": 124,
+			"date": "2026-08-03",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 125,
+			"date": "2026-08-04",
+			"is_class_day": false,
+			"info": "ユニラブ（予定）",
+			"lesson": null
+		},
+		{
+			"day": 126,
+			"date": "2026-08-05",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 127,
+			"date": "2026-08-06",
+			"is_class_day": false,
+			"info": "臨時の休業日",
+			"lesson": null
+		},
+		{
+			"day": 128,
+			"date": "2026-08-07",
+			"is_class_day": false,
+			"info": "臨時の休業日",
+			"lesson": null
+		},
+		{
+			"day": 129,
+			"date": "2026-08-08",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 130,
+			"date": "2026-08-09",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 131,
+			"date": "2026-08-10",
+			"is_class_day": false,
+			"info": "夏季一斉休業期間（事務所閉室）",
+			"lesson": null
+		},
+		{
+			"day": 132,
+			"date": "2026-08-11",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 133,
+			"date": "2026-08-12",
+			"is_class_day": false,
+			"info": "夏季一斉休業期間（事務所閉室）",
+			"lesson": null
+		},
+		{
+			"day": 134,
+			"date": "2026-08-13",
+			"is_class_day": false,
+			"info": "夏季一斉休業期間（事務所閉室）",
+			"lesson": null
+		},
+		{
+			"day": 135,
+			"date": "2026-08-14",
+			"is_class_day": false,
+			"info": "夏季一斉休業期間（事務所閉室）",
+			"lesson": null
+		},
+		{
+			"day": 136,
+			"date": "2026-08-15",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 137,
+			"date": "2026-08-16",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 138,
+			"date": "2026-08-17",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 139,
+			"date": "2026-08-18",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 140,
+			"date": "2026-08-19",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 141,
+			"date": "2026-08-20",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 142,
+			"date": "2026-08-21",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 143,
+			"date": "2026-08-22",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 144,
+			"date": "2026-08-23",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 145,
+			"date": "2026-08-24",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 146,
+			"date": "2026-08-25",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 147,
+			"date": "2026-08-26",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 148,
+			"date": "2026-08-27",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 149,
+			"date": "2026-08-28",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 150,
+			"date": "2026-08-29",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 151,
+			"date": "2026-08-30",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 152,
+			"date": "2026-08-31",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 153,
+			"date": "2026-09-01",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 154,
+			"date": "2026-09-02",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 155,
+			"date": "2026-09-03",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 156,
+			"date": "2026-09-04",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 157,
+			"date": "2026-09-05",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 158,
+			"date": "2026-09-06",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 159,
+			"date": "2026-09-07",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 160,
+			"date": "2026-09-08",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 161,
+			"date": "2026-09-09",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 162,
+			"date": "2026-09-10",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 163,
+			"date": "2026-09-11",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 164,
+			"date": "2026-09-12",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 165,
+			"date": "2026-09-13",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 166,
+			"date": "2026-09-14",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 167,
+			"date": "2026-09-15",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 168,
+			"date": "2026-09-16",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 169,
+			"date": "2026-09-17",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 170,
+			"date": "2026-09-18",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 171,
+			"date": "2026-09-19",
+			"is_class_day": false,
+			"info": "9月卒業式・学位授与式",
+			"lesson": null
+		},
+		{
+			"day": 172,
+			"date": "2026-09-20",
+			"is_class_day": false,
+			"info": "夏季休業期間終了",
+			"lesson": null
+		},
+		{
+			"day": 173,
+			"date": "2026-09-21",
+			"is_class_day": false,
+			"info": "秋学期開始日、祝日",
+			"lesson": null
+		},
+		{
+			"day": 174,
+			"date": "2026-09-22",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 175,
+			"date": "2026-09-23",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 176,
+			"date": "2026-09-24",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 177,
+			"date": "2026-09-25",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 178,
+			"date": "2026-09-26",
+			"is_class_day": false,
+			"info": "9月入学式、ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 179,
+			"date": "2026-09-27",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 180,
+			"date": "2026-09-28",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 181,
+			"date": "2026-09-29",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 182,
+			"date": "2026-09-30",
+			"is_class_day": false,
+			"info": "ガイダンス期間",
+			"lesson": null
+		},
+		{
+			"day": 183,
+			"date": "2026-10-01",
+			"is_class_day": true,
+			"info": "秋クォーター開始",
+			"lesson": 0
+		},
+		{
+			"day": 184,
+			"date": "2026-10-02",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 185,
+			"date": "2026-10-03",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 186,
+			"date": "2026-10-04",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 187,
+			"date": "2026-10-05",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 188,
+			"date": "2026-10-06",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 189,
+			"date": "2026-10-07",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 0
+		},
+		{
+			"day": 190,
+			"date": "2026-10-08",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 191,
+			"date": "2026-10-09",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 192,
+			"date": "2026-10-10",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 193,
+			"date": "2026-10-11",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 194,
+			"date": "2026-10-12",
+			"is_class_day": true,
+			"info": "祝日・休日の授業実施日",
+			"lesson": 1
+		},
+		{
+			"day": 195,
+			"date": "2026-10-13",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 196,
+			"date": "2026-10-14",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 1
+		},
+		{
+			"day": 197,
+			"date": "2026-10-15",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 198,
+			"date": "2026-10-16",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 199,
+			"date": "2026-10-17",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 200,
+			"date": "2026-10-18",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 201,
+			"date": "2026-10-19",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 202,
+			"date": "2026-10-20",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 2
+		},
+		{
+			"day": 203,
+			"date": "2026-10-21",
+			"is_class_day": true,
+			"info": "創立記念日・休日の授業実施日",
+			"lesson": 2
+		},
+		{
+			"day": 204,
+			"date": "2026-10-22",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 205,
+			"date": "2026-10-23",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 206,
+			"date": "2026-10-24",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 207,
+			"date": "2026-10-25",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 208,
+			"date": "2026-10-26",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 209,
+			"date": "2026-10-27",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 210,
+			"date": "2026-10-28",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 3
+		},
+		{
+			"day": 211,
+			"date": "2026-10-29",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 212,
+			"date": "2026-10-30",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 213,
+			"date": "2026-10-31",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 214,
+			"date": "2026-11-01",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 215,
+			"date": "2026-11-02",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 216,
+			"date": "2026-11-03",
+			"is_class_day": true,
+			"info": "祝日・休日の授業実施日",
+			"lesson": 4
+		},
+		{
+			"day": 217,
+			"date": "2026-11-04",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 4
+		},
+		{
+			"day": 218,
+			"date": "2026-11-05",
+			"is_class_day": false,
+			"info": "臨時休業日",
+			"lesson": null
+		},
+		{
+			"day": 219,
+			"date": "2026-11-06",
+			"is_class_day": false,
+			"info": "臨時休業日、理工展準備日（予定）",
+			"lesson": null
+		},
+		{
+			"day": 220,
+			"date": "2026-11-07",
+			"is_class_day": false,
+			"info": "理工展（予定・授業なし）、ペアレンツ･デー(予定）",
+			"lesson": null
+		},
+		{
+			"day": 221,
+			"date": "2026-11-08",
+			"is_class_day": false,
+			"info": "理工展（予定・授業なし）",
+			"lesson": null
+		},
+		{
+			"day": 222,
+			"date": "2026-11-09",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 223,
+			"date": "2026-11-10",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 224,
+			"date": "2026-11-11",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 225,
+			"date": "2026-11-12",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 226,
+			"date": "2026-11-13",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 227,
+			"date": "2026-11-14",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 5
+		},
+		{
+			"day": 228,
+			"date": "2026-11-15",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 229,
+			"date": "2026-11-16",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 230,
+			"date": "2026-11-17",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 231,
+			"date": "2026-11-18",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 232,
+			"date": "2026-11-19",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 233,
+			"date": "2026-11-20",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 6
+		},
+		{
+			"day": 234,
+			"date": "2026-11-21",
+			"is_class_day": true,
+			"info": "秋クォーター終了",
+			"lesson": 6
+		},
+		{
+			"day": 235,
+			"date": "2026-11-22",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 236,
+			"date": "2026-11-23",
+			"is_class_day": true,
+			"info": "祝日・休日の授業実施日・冬クォーター開始",
+			"lesson": 7
+		},
+		{
+			"day": 237,
+			"date": "2026-11-24",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 238,
+			"date": "2026-11-25",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 239,
+			"date": "2026-11-26",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 240,
+			"date": "2026-11-27",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 241,
+			"date": "2026-11-28",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 7
+		},
+		{
+			"day": 242,
+			"date": "2026-11-29",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 243,
+			"date": "2026-11-30",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 244,
+			"date": "2026-12-01",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 245,
+			"date": "2026-12-02",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 246,
+			"date": "2026-12-03",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 247,
+			"date": "2026-12-04",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 248,
+			"date": "2026-12-05",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 8
+		},
+		{
+			"day": 249,
+			"date": "2026-12-06",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 250,
+			"date": "2026-12-07",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 251,
+			"date": "2026-12-08",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 252,
+			"date": "2026-12-09",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 253,
+			"date": "2026-12-10",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 254,
+			"date": "2026-12-11",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 255,
+			"date": "2026-12-12",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 9
+		},
+		{
+			"day": 256,
+			"date": "2026-12-13",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 257,
+			"date": "2026-12-14",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 258,
+			"date": "2026-12-15",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 259,
+			"date": "2026-12-16",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 260,
+			"date": "2026-12-17",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 261,
+			"date": "2026-12-18",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 262,
+			"date": "2026-12-19",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 10
+		},
+		{
+			"day": 263,
+			"date": "2026-12-20",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 264,
+			"date": "2026-12-21",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 265,
+			"date": "2026-12-22",
+			"is_class_day": false,
+			"info": "冬季休業期間開始",
+			"lesson": null
+		},
+		{
+			"day": 266,
+			"date": "2026-12-23",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 267,
+			"date": "2026-12-24",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 268,
+			"date": "2026-12-25",
+			"is_class_day": false,
+			"info": "臨時の休業日",
+			"lesson": null
+		},
+		{
+			"day": 269,
+			"date": "2026-12-26",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 270,
+			"date": "2026-12-27",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 271,
+			"date": "2026-12-28",
+			"is_class_day": false,
+			"info": "臨時の休業日",
+			"lesson": null
+		},
+		{
+			"day": 272,
+			"date": "2026-12-29",
+			"is_class_day": false,
+			"info": "冬季一斉休業期間",
+			"lesson": null
+		},
+		{
+			"day": 273,
+			"date": "2026-12-30",
+			"is_class_day": false,
+			"info": "冬季一斉休業期間",
+			"lesson": null
+		},
+		{
+			"day": 274,
+			"date": "2026-12-31",
+			"is_class_day": false,
+			"info": "冬季一斉休業期間",
+			"lesson": null
+		},
+		{
+			"day": 275,
+			"date": "2027-01-01",
+			"is_class_day": false,
+			"info": "祝日、冬季一斉休業期間",
+			"lesson": null
+		},
+		{
+			"day": 276,
+			"date": "2027-01-02",
+			"is_class_day": false,
+			"info": "冬季一斉休業期間",
+			"lesson": null
+		},
+		{
+			"day": 277,
+			"date": "2027-01-03",
+			"is_class_day": false,
+			"info": "冬季一斉休業期間",
+			"lesson": null
+		},
+		{
+			"day": 278,
+			"date": "2027-01-04",
+			"is_class_day": false,
+			"info": "冬季一斉休業期間",
+			"lesson": null
+		},
+		{
+			"day": 279,
+			"date": "2027-01-05",
+			"is_class_day": false,
+			"info": "冬季一斉休業期間、冬季休業期間終了",
+			"lesson": null
+		},
+		{
+			"day": 280,
+			"date": "2027-01-06",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 281,
+			"date": "2027-01-07",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 282,
+			"date": "2027-01-08",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 283,
+			"date": "2027-01-09",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 284,
+			"date": "2027-01-10",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 285,
+			"date": "2027-01-11",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 286,
+			"date": "2027-01-12",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 11
+		},
+		{
+			"day": 287,
+			"date": "2027-01-13",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 288,
+			"date": "2027-01-14",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 289,
+			"date": "2027-01-15",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 290,
+			"date": "2027-01-16",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 291,
+			"date": "2027-01-17",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 292,
+			"date": "2027-01-18",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 293,
+			"date": "2027-01-19",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 12
+		},
+		{
+			"day": 294,
+			"date": "2027-01-20",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 295,
+			"date": "2027-01-21",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 296,
+			"date": "2027-01-22",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 297,
+			"date": "2027-01-23",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 298,
+			"date": "2027-01-24",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 299,
+			"date": "2027-01-25",
+			"is_class_day": true,
+			"info": null,
+			"lesson": 13
+		},
+		{
+			"day": 300,
+			"date": "2027-01-26",
+			"is_class_day": true,
+			"info": "冬クォーター終了",
+			"lesson": 13
+		},
+		{
+			"day": 301,
+			"date": "2027-01-27",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 302,
+			"date": "2027-01-28",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 303,
+			"date": "2027-01-29",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 304,
+			"date": "2027-01-30",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 305,
+			"date": "2027-01-31",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 306,
+			"date": "2027-02-01",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 307,
+			"date": "2027-02-02",
+			"is_class_day": false,
+			"info": "（授業予備期間）",
+			"lesson": null
+		},
+		{
+			"day": 308,
+			"date": "2027-02-03",
+			"is_class_day": false,
+			"info": "春季休業期間開始",
+			"lesson": null
+		},
+		{
+			"day": 309,
+			"date": "2027-02-04",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 310,
+			"date": "2027-02-05",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 311,
+			"date": "2027-02-06",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 312,
+			"date": "2027-02-07",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 313,
+			"date": "2027-02-08",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 314,
+			"date": "2027-02-09",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 315,
+			"date": "2027-02-10",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 316,
+			"date": "2027-02-11",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 317,
+			"date": "2027-02-12",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 318,
+			"date": "2027-02-13",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 319,
+			"date": "2027-02-14",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 320,
+			"date": "2027-02-15",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 321,
+			"date": "2027-02-16",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 322,
+			"date": "2027-02-17",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 323,
+			"date": "2027-02-18",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 324,
+			"date": "2027-02-19",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 325,
+			"date": "2027-02-20",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 326,
+			"date": "2027-02-21",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 327,
+			"date": "2027-02-22",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 328,
+			"date": "2027-02-23",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 329,
+			"date": "2027-02-24",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 330,
+			"date": "2027-02-25",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 331,
+			"date": "2027-02-26",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 332,
+			"date": "2027-02-27",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 333,
+			"date": "2027-02-28",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 334,
+			"date": "2027-03-01",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 335,
+			"date": "2027-03-02",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 336,
+			"date": "2027-03-03",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 337,
+			"date": "2027-03-04",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 338,
+			"date": "2027-03-05",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 339,
+			"date": "2027-03-06",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 340,
+			"date": "2027-03-07",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 341,
+			"date": "2027-03-08",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 342,
+			"date": "2027-03-09",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 343,
+			"date": "2027-03-10",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 344,
+			"date": "2027-03-11",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 345,
+			"date": "2027-03-12",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 346,
+			"date": "2027-03-13",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 347,
+			"date": "2027-03-14",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 348,
+			"date": "2027-03-15",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 349,
+			"date": "2027-03-16",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 350,
+			"date": "2027-03-17",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 351,
+			"date": "2027-03-18",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 352,
+			"date": "2027-03-19",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 353,
+			"date": "2027-03-20",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 354,
+			"date": "2027-03-21",
+			"is_class_day": false,
+			"info": "祝日",
+			"lesson": null
+		},
+		{
+			"day": 355,
+			"date": "2027-03-22",
+			"is_class_day": false,
+			"info": "振替休日",
+			"lesson": null
+		},
+		{
+			"day": 356,
+			"date": "2027-03-23",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 357,
+			"date": "2027-03-24",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 358,
+			"date": "2027-03-25",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 359,
+			"date": "2027-03-26",
+			"is_class_day": false,
+			"info": "卒業式・学位授与式(予定)",
+			"lesson": null
+		},
+		{
+			"day": 360,
+			"date": "2027-03-27",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 361,
+			"date": "2027-03-28",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 362,
+			"date": "2027-03-29",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 363,
+			"date": "2027-03-30",
+			"is_class_day": false,
+			"info": null,
+			"lesson": null
+		},
+		{
+			"day": 364,
+			"date": "2027-03-31",
+			"is_class_day": false,
+			"info": "春季休業期間終了",
+			"lesson": null
+		}
+	]
+}
